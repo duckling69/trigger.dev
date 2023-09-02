@@ -1,5 +1,14 @@
 # @trigger.dev/resend
 
+## 2.0.15
+
+### Patch Changes
+
+- Better handle retrying rate-limited resend requests ([#320](https://github.com/triggerdotdev/trigger.dev/pull/320))
+- Updated dependencies:
+  - `@trigger.dev/integration-kit@2.0.15`
+  - `@trigger.dev/sdk@2.0.15`
+
 ## 2.0.14
 
 ### Patch Changes

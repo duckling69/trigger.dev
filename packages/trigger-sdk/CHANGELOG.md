@@ -1,5 +1,12 @@
 # @trigger.dev/sdk
 
+## 2.0.15
+
+### Patch Changes
+
+- Updated dependencies:
+  - `@trigger.dev/core@2.0.15`
+
 ## 2.0.14
 
 ### Patch Changes
